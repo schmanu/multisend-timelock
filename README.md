@@ -6,7 +6,7 @@ The Timelock smart contract is a very simple contract with just one function whi
 
 This function call can be added to i.e. (Gnosis) Safe multisend transactions in order to achieve a timelocked transaction which is only executable after a timestamp has passed.
 
-Using this contract it is possible to fully sign transactions but avoiding the execution until a given date.
+Using this contract it is possible to fully sign transactions while avoiding the execution until a given date.
 
 ## Usecases
 
